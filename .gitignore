@@ -1,0 +1,13 @@
+build/
+results/.shortmsg_tmp/
+results/*.log
+results/**/*.log
+__pycache__/
+*.pyc
+*.o
+*.swp
+*~
+*.tar.gz
+*.sha256
+README_PATCH.txt
+.DS_Store
